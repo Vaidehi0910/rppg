@@ -1,0 +1,14 @@
+opencv-python
+pandas
+numpy
+scipy
+alphashape
+tqdm
+mediapipe
+h5py
+matplotlib
+panel
+pillow
+heartpy
+protobuf
+ipykernel
